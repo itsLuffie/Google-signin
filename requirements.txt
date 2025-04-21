@@ -1,0 +1,3 @@
+django
+jwt
+django-allauth
